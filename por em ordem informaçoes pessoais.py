@@ -1,0 +1,8 @@
+mensagem_ini = print('ola so na manhota, para colocar em ordem seus dados primeiro preciso deles ok? entao vai me falando ai: ')
+nome = input('para começar preciso do seu nome para colocar seus dados em ordem: ')
+idade = input('ha sim '+nome+' prazer em te conhecer, preciso da sua idade agora: ')
+data_nasc = input(nome+' fala ai a tua data de nascimento: ')
+aonde_mora = input('olha '+nome+' nao sei se e voçe vai se sentir a vontade, mas para terminarmos e eu coseguir colocar seus dados em ordem preciso saber aonde voçe mora: ')
+print(nome, idade, data_nasc, aonde_mora)
+nota = input('oque achou dos meu servicos? de 0 a 10 voçe mim DA ( ͡° ͜ʖ ͡°) ')
+print('voçe mim deu '+nota+' agora e so ficar ligado pra outros scripts EMOCIONANTES')

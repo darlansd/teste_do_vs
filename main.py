@@ -5,5 +5,5 @@ nome = input("Primeiro preciso que digite seu nome completo: ")
 idade = input("Prazer em te conhecer " + nome +", agora preciso da sua data de nascimento nesse formato (xx/xx/xx): ")
 endereco = input("Muito bem, agora preciso do seu endereço: ")
 
-print("O seu nome é " + nome + ", \n sua data de nascimento é " + idade + ",\n e seu endereço é " + endereco)
+print( "\n O seu nome é " + nome + ", \n sua data de nascimento é " + idade + ",\n e seu endereço é " + endereco + "\n")
 
